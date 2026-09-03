@@ -3,7 +3,6 @@
 A simple rule-based chatbot built using Python and NLTK.
 
 ## Features
-
 - Responds to greetings
 - Recognizes the user's name
 - Answers predefined questions
@@ -19,7 +18,6 @@ A simple rule-based chatbot built using Python and NLTK.
 - Regular Expressions
 
 ## Project Structure
-
 ```text
 rule_based_chatbot/
 │
